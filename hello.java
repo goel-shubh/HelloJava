@@ -6,7 +6,7 @@ class Hello{
 		{
 			System.out.println("hello there .." + i);
 			//this is comment
-			
 		}
+		System.out.println("Program Completed");
 	}
 }
